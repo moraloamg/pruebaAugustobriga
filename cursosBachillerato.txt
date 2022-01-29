@@ -3,3 +3,11 @@ Humanidades
 Ciencias sociales
 Tecnológico
 Ciencias de la salud
+arte1
+arte2
+arte3
+arte4
+arte5
+arte6
+arte7
+arte8
