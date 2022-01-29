@@ -1,13 +1,10 @@
 Bachillerato
-Humanidades
-Ciencias sociales
-Tecnológico
-Ciencias de la salud
-arte1
-arte2
-arte3
-arte4
-arte5
-arte6
-arte7
-arte8
+1º Humanidades
+2º Humanidades
+1º Ciencias sociales
+2º Ciencias sociales
+1º Tecnológico
+2º Tecnológico
+1º Ciencias de la salud
+2º Ciencias de la salud
+
