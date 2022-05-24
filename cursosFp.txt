@@ -1,10 +1,10 @@
 Fp
-1ºFP Básica
-2ºFP Básica
-1ºSMR 
-2ºSMR
-1ºDAM_DAW
-2ºDAM
-2ºDAW
-1ºASIR
-2ºASIR
+1º FP Básica
+2º FP Básica
+1º SMR 
+2º SMR
+1º DAM_DAW
+2º DAM
+2º DAW
+1º ASIR
+2º ASIR
