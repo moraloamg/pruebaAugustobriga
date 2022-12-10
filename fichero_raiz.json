@@ -1,0 +1,34 @@
+{
+    "Nuestro Centro": "Enlace",
+    "Novedades":"https://iesaugustobriga.educarex.es/",
+    "Plano del centro":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/plano/plano.png",
+    "Profesorado":{
+        "Organización":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/equipo_directivo.csv",
+        "Tutorias":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/tutores.csv",
+        "Departamentos":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/departamentos.csv"
+    },
+    "Horarios":[
+        {
+            "Formación Profesional":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosFp.txt",
+            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
+            "extension_imagenes":".png"
+        },
+        {
+            "Bachillerato":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosBachillerato.txt",
+            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/Bachillerato/",
+            "extension_imagenes":".png"
+        },
+        {
+            "Educación Secundaria":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
+            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
+            "extension_imagenes":".png"
+        }
+    ],
+    "Calendarios":{
+        "Eso y Bachillerato":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/Bachillerato.png",
+        "F.P":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/fp.png",
+        "Recuperación de pendientes":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/eso.png"
+    },
+    "Youtube":"https://www.youtube.com/channel/UCYqTO4pG-fD9KPyjvdI3f6w",
+    "Radio":"https://radioedu.educarex.es/radioelcandil/"
+}
