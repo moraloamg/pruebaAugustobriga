@@ -2,25 +2,37 @@
     "Nuestro Centro": "Enlace",
     "Novedades":"https://iesaugustobriga.educarex.es/",
     "Plano del centro":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/plano/plano.png",
-    "Profesorado":{
-        "Organización":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/equipo_directivo.csv",
-        "Tutorias":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/tutores.csv",
-        "Departamentos":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/departamentos.csv"
-    },
+    "Profesorado":[
+        {
+            "apartado":"Organización",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/equipo_directivo.csv"
+        },
+        {
+            "apartado":"Tutorías",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/tutores.csv"
+        },
+        {
+            "apartado":"Departamentos",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/departamentos.csv"
+        }
+    ],
     "Horarios":[
         {
-            "Formación Profesional":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosFp.txt",
-            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
+            "modalidad":"Formación Profesional",
+            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosFp.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
             "extension_imagenes":".png"
         },
         {
-            "Bachillerato":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosBachillerato.txt",
-            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/Bachillerato/",
+            "modalidad":"Bachillerato",
+            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosBachillerato.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/Bachillerato/",
             "extension_imagenes":".png"
         },
         {
-            "Educación Secundaria":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
-            "carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
+            "Modalidad":"Educación Secundaria",
+            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
+            "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
             "extension_imagenes":".png"
         }
     ],
