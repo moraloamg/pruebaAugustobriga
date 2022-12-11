@@ -36,11 +36,20 @@
             "extension_imagenes":".png"
         }
     ],
-    "Calendarios":{
-        "Eso y Bachillerato":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/Bachillerato.png",
-        "F.P":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/fp.png",
-        "Recuperación de pendientes":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/eso.png"
-    },
+    "Calendarios":[
+        {
+            "apartado":"Eso y Bachillerato",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/Bachillerato.png"
+        },
+        {
+            "apartado":"F.P",
+            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/calendarios/fp.png"
+        },
+        {
+            "apartado":"Recuperación de pendientes",
+            "enlace":"https://iesaugustobriga.educarex.es/images/Fotos22-23/Enero_Febrero_2023_1.pdf"
+        }
+    ],
     "Youtube":"https://www.youtube.com/channel/UCYqTO4pG-fD9KPyjvdI3f6w",
     "Radio":"https://radioedu.educarex.es/radioelcandil/"
 }
