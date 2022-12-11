@@ -19,19 +19,19 @@
     "Horarios":[
         {
             "modalidad":"Formación Profesional",
-            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosFp.txt",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/cursosFp.txt",
             "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/fp/",
             "extension_imagenes":".png"
         },
         {
             "modalidad":"Bachillerato",
-            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosBachillerato.txt",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/blob/main/cursosBachillerato.txt",
             "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/Bachillerato/",
             "extension_imagenes":".png"
         },
         {
             "modalidad":"Educación Secundaria",
-            "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
+            "enlace_lista":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
             "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
             "extension_imagenes":".png"
         }
