@@ -30,7 +30,7 @@
             "extension_imagenes":".png"
         },
         {
-            "Modalidad":"Educación Secundaria",
+            "modalidad":"Educación Secundaria",
             "enlace_lista":"https://github.com/moraloamg/pruebaAugustobriga/blob/main/cursosEso.txt",
             "enlace_carpeta":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/horarios/eso/",
             "extension_imagenes":".png"
