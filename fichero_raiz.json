@@ -5,15 +5,15 @@
     "Profesorado":[
         {
             "apartado":"Organización",
-            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/equipo_directivo.csv"
+            "enlace":"https://docs.google.com/viewer?url=https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/equipo_directivo.pdf"
         },
         {
             "apartado":"Tutorías",
-            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/tutores.csv"
+            "enlace":"https://docs.google.com/viewer?url=https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/tutorias.pdf"
         },
         {
             "apartado":"Departamentos",
-            "enlace":"https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/departamentos.csv"
+            "enlace":"https://docs.google.com/viewer?url=https://raw.githubusercontent.com/moraloamg/pruebaAugustobriga/main/profesores_por_departamento.pdf"
         }
     ],
     "Horarios":[
